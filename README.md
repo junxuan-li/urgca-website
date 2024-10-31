@@ -4,10 +4,10 @@ This is the website for the paper [URAvatar: Universal Relightable Gaussian Code
 
 If you find URAvatar useful for your work please cite:
 ```
-@article{li2024uravatar,
+@inproceedings{li2024uravatar,
       author = {Junxuan Li and Chen Cao and Gabriel Schwartz and Rawal Khirodkar and Christian Richardt and Tomas Simon and Yaser Sheikh and Shunsuke Saito},
       title = {URAvatar: Universal Relightable Gaussian Codec Avatars}, 
-      journal = {arXiv preprint arXiv:****.****},
+      booktitle = {ACM SIGGRAPH 2024 Conference Papers},
       year = {2024},
 }
 ```
